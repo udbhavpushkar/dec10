@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c63fa54c-9c3b-4cfe-b7da-dc27addeccf8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/file1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +58,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -59,7 +81,8 @@
       <updated>1607614864394</updated>
       <workItem from="1607614865526" duration="4611000" />
       <workItem from="1607703563643" duration="1386000" />
-      <workItem from="1607705629405" duration="832000" />
+      <workItem from="1607705629405" duration="1652000" />
+      <workItem from="1607786944879" duration="6264000" />
     </task>
     <servers />
   </component>
@@ -76,6 +99,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1607703927861">
@@ -90,14 +117,14 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="479" y="59" key="Github.UntrackedFilesDialog/0.0.1280.720@0.0.1280.720" timestamp="1607704516903" />
-    <state x="142" y="6" key="SettingsEditor" timestamp="1607703932053">
+    <state x="0" y="0" key="SettingsEditor" timestamp="1607794109289">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="142" y="6" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1607703932053" />
-    <state x="458" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607704628453">
+    <state x="0" y="0" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1607794109289" />
+    <state x="458" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607794128380">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="458" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1607704628453" />
+    <state x="458" y="275" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1607794128380" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1607703585879">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
